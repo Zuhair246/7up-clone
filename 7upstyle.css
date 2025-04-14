@@ -1,0 +1,208 @@
+.header{
+    width: 100%;
+    height: 114px;
+    background-color: #00D2C6;
+    position: fixed;
+    z-index: 100;
+}
+body{
+    margin: 0%;
+    float: left;
+}
+.body{
+    margin-top: 115px;
+    width: 100%;
+}
+.logo{
+    width: 55%;
+    height: 114px;
+    float: left;
+}
+@font-face {
+    font-family: korolev light;
+    src: url("Korolev Light.otf");
+}
+.links{
+    width: 45%;
+    height: 114px;
+    font-family: 'korolev light';
+    font-size: 21.5px;
+    font-weight: bold;
+    padding-top: 40px;
+    float: left;
+}
+.link1{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 65px;
+}
+.link2{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link3{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.icon{
+    width: 85px;
+    margin-left: 27px;
+    margin-top: 18px;
+}
+.facebook{
+    padding-left: 50px;
+}
+.logos{
+    width: 28px;
+}
+
+@font-face {
+    font-family: Korolev Heavy;
+    src: url("Korolev Heavy.otf");
+}
+.quote{
+     font-family: 'Korolev Heavy';
+    color: #fff;
+    font-size: 80px;
+    position: absolute;
+    top: 300px;
+    left: 80px;
+    line-height: 75px;
+}
+.learn{
+    position: absolute;
+    top: 250px;
+    left: 5px;
+    font-family: 'Korolev Light';
+    background-color: transparent;
+    border-radius: 20px;
+    font-size: 18px;
+    color: #fff;
+    border: 2px solid #fff;
+    width: 165px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.bg1{
+    width: 100%;
+}
+.bg2{
+    width: 100%;
+}
+.bg3{
+    width: 100%;
+}
+.recipes-div{
+    margin-top: 875px;
+    position: absolute;
+    top: 40%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.bg{
+    width: 45%;
+    margin: auto;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 43px;
+}
+.text{
+    font-family: 'korolev light';
+    font-size: 36px;
+    line-height: 15px;
+}
+.description{
+    font-family: 'korolev light';
+    font-size: 16px;
+    font-weight: bold;
+}
+.view-find{
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 30px;
+    font-family: 'korolev light';
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section2{
+    margin-top: -3px;
+}
+.section3{
+    margin-top: -3px;
+}
+
+.locator{
+    margin-top: 1580px;
+    position: absolute;
+    top: 40%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.footer{
+    background-color: #3e3e3e;
+    width: 100%;
+    height: 125px;
+    margin-top: -4px;
+    padding-left: 10px;
+    float: left;
+    box-sizing: border-box;
+}
+.link-below{
+    font-family: 'korolev light';
+    font-weight: bold;
+    font-size: 11.5px;
+    color: #fff;
+    padding-top: 12px;
+}
+.link4{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 320px;
+}
+.link5{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link6{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link7{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link8{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link9{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link10{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.link11{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.bottom-text{
+    margin-left: 500px;
+    font-size: 11px;
+}
